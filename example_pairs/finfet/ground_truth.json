@@ -1,0 +1,44 @@
+[
+  {
+    "sample_id": "finfet_0000",
+    "architecture": "finfet",
+    "zoom_ratio": 10.0,
+    "gt_center_x": 530.9722063511931,
+    "gt_center_y": 437.6153111036304,
+    "ref_size": 1000,
+    "search_size": 1000,
+    "ref_photon_scale": 93.70789493256163,
+    "search_photon_scale": 52.75848453238632,
+    "rotation_deg": -1.8281937172231544,
+    "blur_sigma_ref": 0.34473087902124283,
+    "blur_sigma_search": 0.2991179260161721
+  },
+  {
+    "sample_id": "finfet_0001",
+    "architecture": "finfet",
+    "zoom_ratio": 10.0,
+    "gt_center_x": 458.3716324692597,
+    "gt_center_y": 585.7086354260663,
+    "ref_size": 1000,
+    "search_size": 1000,
+    "ref_photon_scale": 96.07994634035708,
+    "search_photon_scale": 39.10346065726307,
+    "rotation_deg": 0.3651127409176471,
+    "blur_sigma_ref": 0.20886571223938563,
+    "blur_sigma_search": 0.3806814216057286
+  },
+  {
+    "sample_id": "finfet_0002",
+    "architecture": "finfet",
+    "zoom_ratio": 10.0,
+    "gt_center_x": 524.4054512581308,
+    "gt_center_y": 597.5062207698608,
+    "ref_size": 1000,
+    "search_size": 1000,
+    "ref_photon_scale": 96.74072289617162,
+    "search_photon_scale": 44.12183155074395,
+    "rotation_deg": -0.8109590529588151,
+    "blur_sigma_ref": 0.2869799043092604,
+    "blur_sigma_search": 0.26597104007649575
+  }
+]
